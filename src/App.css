@@ -1,7 +1,72 @@
 .App {
   text-align: center;
 }
+.Topimage{
+  width: 100%;
+  height: 708.88px;
+}
+.Middlecomp{
+  padding: 2rem;
+  background-color: #2B2B2B;
+}
+.card1{
+  padding: 4rem;
+  gap: 10rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
+.mh1{
+  text-align: center;
+  margin: 60px;
+  color: #fff;
+  font-size: 24px;
+  font: Roboto;
+  font-weight: 600;
+  line-height: 28.13px;
+}
+.bh1{
+  text-align: center;
+  margin: 60px;
+  font-size: 24px;
+  font: Roboto;
+  font-weight: 600;
+  line-height: 28.13px;
+}
+.cardContainr{
+    display: flex;
+    align-content: flex-start;
+    width: 248px;
+    flex-direction: column;
+    align-items: center;
+}
+.cardTitle{
+  color: #fff;
+}
+.cardBody{
+  color: #fff;
+}
+.card{
+  padding-top: 212px;
+  width: 306px;
+  height: 402px;
+  border-radius: 15px;
+  padding: 2rem;
+  background-color: #86deca;
+  margin: 1rem;
+}
+.title{
+  line-height: 21.09px;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Roboto;
+}
+.Bottom{
+  margin: 10rem;
+    
+    
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
